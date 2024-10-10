@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there, 👋
+## - 🌱 I’m learning the very basics of C++
+## - 🙂 I’m looking for help with starting on GitHub and some useful C++ absolute beginner tutorials
+## - 👨‍🎓 I'm currently @ CG Spectrum studying Real-Time 3D
+## - 📫 You can reach me on my email address
+## - 🎁 Thank you
+
 
 <!--
 **nenad-zuljevic/nenad-zuljevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
