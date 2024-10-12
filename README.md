@@ -3,7 +3,7 @@
 ## - 🙂 I’m looking for help with starting on GitHub and some useful C++ absolute beginner tutorials
 ## - 👨‍🎓 I'm currently @ CG Spectrum studying Real-Time 3D
 ## - 📫 You can reach me on my email address
-## - 🎁 Thank you
+## - 🎁 Thank you!
 
 
 <!--
