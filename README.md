@@ -1,10 +1,10 @@
-## Hello there, 👋
-## - 🌱 I’m learning the very basics of C++
-## - 🙂 I’m looking for help with starting on GitHub and some useful C++ absolute beginner tutorials
-## - 👨‍🎓 I'm currently @ CG Spectrum studying Real-Time 3D
-## - 📫 You can reach me on my email address
-## - 🎁 Thank you!
+# Hello there, 👋
 
+- 🎨 Real-Time 3D artist in the making — world building, atmosphere, and lighting in Unreal Engine 5
+- 🏛️ Architectural and Civil Engineering background — I think in space, light, and structure
+- 🎓 Finishing my Real-Time 3D studies at CG Spectrum (July 2026)
+- 🔧 Writing Unreal Engine C++ — see my pinned Dynamic Lighting System
+- 📫 You can reach me at nenad.zuljevic@gmail.com
 
 <!--
 **nenad-zuljevic/nenad-zuljevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
